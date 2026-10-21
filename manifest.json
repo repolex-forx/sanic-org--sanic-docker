@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "sanic-org",
+  "repo": "sanic-docker",
+  "versions": [
+    {
+      "commit": "3406c70aeb287193750b281e59d3bd2b1239f8e8",
+      "parsed_at": "2026-10-21T02:07:36.139895+00:00",
+      "filetree": "filetree/3406c70aeb287193750b281e59d3bd2b1239f8e8.nq.gz",
+      "blobs": [
+        "blob/6b8d18bad35546c6d92ee472b8c6349d17c148bc.nq.gz",
+        "blob/e5d17c1e053b82d5fd6174fed01355e93bd939e9.nq.gz",
+        "blob/7302f570550f283090610b13687217a67dc3eae9.nq.gz",
+        "blob/7495b8be3559caae10d2e8ea00ada47405c98f29.nq.gz",
+        "blob/b95a46fff1606d824cac3175f2a29d06e9f6b369.nq.gz",
+        "blob/812c8419831ccd89ba0351fa94c48ad17cbc8f35.nq.gz",
+        "blob/6d95da4461c7a0eab4e4bbf29386d809f9ceda20.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
